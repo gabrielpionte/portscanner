@@ -1,5 +1,5 @@
 <h1>📡Port Scanner
-<h2>Fast Port Scanner construído em python3 utilizando a biblioteca SOCKET e Threading.
+<h2>Fast Port Scanner para Windows, construído em python3 utilizando a biblioteca SOCKET e Threading.
 <h4>Além disso, tabém utilizaremos as bibliotecas Queue, time e datetime.
 <h4>Port Scanner é uma poderosa ferramenta de identificação de alvos, que constitui na varredura de portas de um determinado HOST escolhido.
 <h4>Como utilizar o Port Scanner:
